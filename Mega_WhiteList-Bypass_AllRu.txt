@@ -2402,3 +2402,4 @@ vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@45.144.52.23:443?path=%2Fgetupdates
 hysteria2://Pissyabobra@37.18.14.33:8443?security=tls&insecure=0&sni=www.sberbank.ru#www.sberbank.ru
 vless://be62807f-17d0-47d0-8c77-e8be4ec62614@37.18.14.103:8081?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=max.ru#max.ru
 vless://be62807f-17d0-47d0-8c77-e8be4ec62614@37.18.14.103:8081?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=nalog.ru#nalog.ru
+vless://star_test4@194.107.126.214:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=JOJ9C3bZafgM5-cMNWQQIgsU7rGSMhXOz89852K-EwQ&fp=chrome&spx=%2F&type=xhttp&sni=vk.com&sid=c39392324d01#0%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
